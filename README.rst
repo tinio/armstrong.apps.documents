@@ -3,6 +3,11 @@ armstrong.apps.documents
 This package provides a documents app. 
 
 
+.. warning:: This is development level software.  Please do not use unless you 
+             are familiar with what that means and are comfortable using that 
+             type of software.
+
+
 State of Project
 ----------------
 Armstrong is an open-source news platform that is freely available to any
