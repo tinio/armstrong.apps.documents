@@ -1,0 +1,10 @@
+{
+    "name": "armstrong.apps.documents",
+    "version": "0.1.0.alpha.0",
+    "description": "This package provides documents for the Armstrong CMS",
+    "install_requires": [
+        "Django==1.3",
+        "armstrong.core.arm_content",
+        "armstrong.apps.content"
+    ]
+}
